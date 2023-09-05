@@ -9,8 +9,8 @@ function App() {
         <div className="text">
           <p>Improve your front-end skills by building projects</p>
           <small>
-            Scan the QR code to visit Frontend Mentor and takeyour coding skills
-            to the next level
+            Scan the QR code to visit Frontend Mentor and take your coding
+            skills to the next level
           </small>
         </div>
       </div>

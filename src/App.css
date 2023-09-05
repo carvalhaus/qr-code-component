@@ -33,6 +33,7 @@ main {
 }
 
 .text > p {
+  color: var(--darkBlue);
   font-weight: 700;
   margin-bottom: 0.5rem;
 }
