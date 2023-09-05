@@ -1,0 +1,19 @@
+:root {
+  font-family: "Outfit", sans-serif;
+  line-height: 1.5;
+  font-size: 15px;
+  font-weight: 400;
+
+  background: #d6e2f0;
+
+  --white: #fff;
+  --lightGray: #d6e2f0;
+  --graylishBlue: #7b879d;
+  --darkBlue: #1f3251;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
